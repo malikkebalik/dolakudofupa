@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://dolakudofupa.pages.dev/sitemap.xml
